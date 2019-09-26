@@ -1,0 +1,9 @@
+theme: jekyll-theme-minimal
+title: Safa Alver
+logo: /assets/img/me.png
+description: Ph.D. student @ McGill
+google_analytics: UA-125241140-2
+repository: alversafa/alversafa.github.io
+
+plugins:
+  - jekyll-seo-tag
